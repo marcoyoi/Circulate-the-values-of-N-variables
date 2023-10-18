@@ -27,7 +27,7 @@ def circulate():
 ```
 
 ## Output:
-![Alt text](../../ex02pythongit.png)
+![Alt text](ex02pythongit.png)
 
 
 ## Result:
