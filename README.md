@@ -27,6 +27,8 @@ def circulate():
 ```
 
 ## Output:
-![Open code](<../../pythongit exp2.png>)
+![Alt text](../../ex02pythongit.png)
+
+
 ## Result:
 Thus the python program for circulate the values of n variables is executed successfully
