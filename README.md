@@ -6,14 +6,17 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
+Create a function to cirulate the variables 
 ### Step 2: 
+Initialize a list from the user using eval
 ### Step 3: 
 Get the value from the user for the number of rotation
 ### Step 4: 
 Using the slicing concept rotate the list
-
 ### Step 5: 
+We do this initializing a variable l1 and adding the values before index and after the index in the list.
 ### Step 6: 
+Print the value of l1
 ## Program:
 ```
 #Program to circulate N values.
